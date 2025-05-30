@@ -37,7 +37,7 @@ const myStack = {
 
 ## 🌟 Current Focus
 
-I'm currently focused on cutting-edge challenges in distributed AI systems and enterprise architecture:
+I'm currently part of an amazing company called **HiveArmada**, where I focus on cutting-edge challenges in distributed AI systems and enterprise architecture:
 
 - **🤖 AI-Native Architectures**: Designing systems that seamlessly integrate AI capabilities
 - **🏗️ Cloud-Native Platforms**: Building Kubernetes-first applications for global scale
@@ -86,11 +86,7 @@ I'm always expanding my expertise. Currently diving deep into:
 ## 🤝 Let's Connect
 
 I love collaborating with brilliant minds and solving complex challenges together:
-
-- 💼 **LinkedIn**: [linkedin.com/in/archie-ai-architect](https://linkedin.com/in/archie-ai-architect)
-- 🐦 **Twitter**: [@ArchieBuilds](https://twitter.com/ArchieBuilds)
-- 📧 **Email**: archie@hiveagents.ai
-- 💬 **Discord**: ArchieArchitect#1337
+- 📧 **Email**: archie@hivearmada.com
 
 ## 🎯 Open to Opportunities
 
@@ -113,4 +109,4 @@ I'm passionate about:
 
 *"Building software is like city planning - you need to think about traffic flow, zoning, utilities, and growth. The difference is, in software, you can rebuild the roads while people are driving on them."*
 
-**Currently architecting the future, one system at a time 🚀**
+**Currently architecting the future at [HiveArmada](https://github.com/HiveArmada) 🚀**
